@@ -1,5 +1,7 @@
 # JavaScript Calculator
 
+[Click here](http://jscalculator-quadnix.engine.quadnix.com) to play Javascript Calculator in Quadnix Plugins.
+
 This is the 7th project for freeCodeCamp's Front-End Development certificate.
 
 Completed On: 28 January 2016  
